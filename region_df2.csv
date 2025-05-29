@@ -1,0 +1,839 @@
+region,country,lat,lng,continent
+pomerol,France,44.9311234,-0.1999904,Europe
+lirac,France,44.0372,4.69136,Europe
+toscana,Italy,43.4586541,11.1389204,Europe
+bardolino,Italy,45.5475595,10.7242145,Europe
+carnuntum,Austria,48.1141485,16.8657834,Europe
+gigondas,France,44.1641127,5.0051053,Europe
+wairarapa,New Zealand,-41.2361798,175.2196902,Oceania
+itata valley,Chile,-30.0,-71.0,South America
+chianti,Italy,43.5824597,11.3168731,Europe
+minervois,France,43.2718,2.52099,Europe
+barossa,Australia,-34.6134149,138.9385455,Oceania
+terrasses du larzac,France,43.7152761,3.4888802,Europe
+puglia,Italy,40.9842539,16.6210027,Europe
+cotes-du-rhone,France,44.7667285,4.8528701,Europe
+south eastern australia,Australia,-35.0085711,138.5726421,Oceania
+stellenbosch,South Africa,-33.934444,18.869167,Africa
+bierzo,Spain,42.60645,-6.8097712,Europe
+california,United States,36.7014631,-118.755997,North America
+salento,Italy,40.248604,15.190058,Europe
+douro,Portugal,41.135684,-7.1166743,Europe
+sopron,Hungary,47.6803063,16.5983457,Europe
+serra gaucha,Brazil,-29.1551147,-51.5153447,South America
+chianti classico,Italy,43.3930219,11.3088538,Europe
+saint-emilion grand cru,France,44.847147,-0.547337,Europe
+veneto,Italy,45.6476663,11.8665254,Europe
+monterey,United States,36.2231079,-121.387742,North America
+saint-estephe,France,45.5925,0.6633333,Europe
+yecla,Spain,38.6135956,-1.1157882,Europe
+campo de borja,Spain,41.7865415,-1.5058323,Europe
+saint-julien,France,47.4019947,5.1364639,Europe
+bourgogne,France,49.3555104,4.0681417,Europe
+barbera d'asti,Italy,44.8524808,8.2414532,Europe
+bordeaux,France,44.841225,-0.5800364,Europe
+sancerre,France,47.3306906,2.8390454,Europe
+mclaren vale,Australia,-35.2172617,138.5416998,Oceania
+saint-joseph,France,49.5344534,-1.529802,Europe
+fronsac,France,42.9509183,0.6487221,Europe
+terre del volturno,Italy,41.02317,13.92577,Europe
+lazio,Italy,41.9808038,12.7662312,Europe
+castilla y leon,Spain,41.55005,-5.1387401,Europe
+central valley,Chile,-36.0,-72.0,South America
+alentejano,Portugal,38.8421261,-7.5871012,Europe
+madiran,France,43.5502022,-0.0580853,Europe
+napa valley,United States,38.8484702,-94.413093,North America
+almansa,Spain,38.8682065,-1.0978627,Europe
+catalunya,Spain,41.8523094,1.5745043,Europe
+languedoc,France,43.6796869,1.3966515,Europe
+pays d'oc,France,43.604764,1.4540399,Europe
+barbera d'alba,Italy,44.7712158,8.0435811,Europe
+barolo,Italy,44.6108408,7.9428448,Europe
+pauillac,France,45.1995626,-0.7484994,Europe
+washington,United States,38.8950368,-77.0365427,North America
+cote-rotie,France,44.7267925,-0.3900425,Europe
+mendoza,Argentina,-34.787093,-68.4381868,South America
+ruche,Italy,45.6350879,10.494352,Europe
+vigneti delle dolomiti,Italy,46.38333,11.85,Europe
+mendocino county,United States,39.3176491,-123.4126399,North America
+margaux,France,45.0463335,-0.6729117,Europe
+ribera del duero,Spain,41.6657566,-3.6863295,Europe
+faugeres,France,43.5648186,3.1901144,Europe
+terre siciliane,Italy,42.83333,12.83333,Europe
+bolgheri,Italy,43.2340065,10.6179334,Europe
+marlborough,New Zealand,-41.4744747,173.8330263,Oceania
+castilla,Spain,40.4763551,-3.6800358,Europe
+paarl,South Africa,-33.7310282,18.9642117,Africa
+burgenland,Austria,47.5000001,16.4166666,Europe
+lanzarote,Spain,29.0397081,-13.6362916,Europe
+dealu mare,Romania,46.0417098,22.7959016,Europe
+walker bay,South Africa,-34.518515,19.2880206,Africa
+barossa valley,Australia,-34.5817132,138.9987872,Oceania
+fronton,France,43.840295,1.390285,Europe
+montsant,Spain,41.1171253,1.211005,Europe
+vin de france,France,50.2767373,3.977096,Europe
+pfalz,Germany,53.8156324,13.3702287,Europe
+haut-medoc,France,45.1445995,-0.7357492,Europe
+hemel-en-aarde valley,South Africa,-34.39455,19.22012,Africa
+valpolicella ripasso classico,Italy,42.83333,12.83333,Europe
+rosso di montalcino,Italy,43.055612,11.3592953,Europe
+cannonau di sardegna,Italy,40.2568502,9.6218801,Europe
+primitivo di manduria,Italy,40.4002788,17.6374622,Europe
+rioja,Spain,42.3285528,-2.4674917,Europe
+priorat,Spain,41.2137983,0.8116236,Europe
+la mancha,Spain,28.3774367,-16.6977504,Europe
+trentino,Italy,46.1029536,11.1297425,Europe
+walla walla valley,United States,36.2399704,-112.2245586,North America
+navarra,Spain,42.6125488,-1.8307877,Europe
+corbieres,France,43.0547547,1.9970557,Europe
+south australia,Australia,-30.5343665,135.6301212,Oceania
+baden,Germany,53.0023496,9.0820955,Europe
+franschhoek,South Africa,-33.909167,19.119444,Africa
+vale dos vinhedos,Brazil,-29.1790429,-51.5789598,South America
+brunello di montalcino,Italy,43.3204995,11.3281859,Europe
+maule valley,Chile,-30.0,-71.0,South America
+cotes catalanes,France,42.74503,2.896873,Europe
+stags leap district,United States,36.578676,-79.389888,North America
+barbaresco,Italy,44.7254469,8.0806959,Europe
+medoc,France,49.3524933,6.1542002,Europe
+pessac-leognan,France,44.718997,-0.60521,Europe
+amarone della valpolicella,Italy,42.83333,12.83333,Europe
+ribera del queiles,Spain,40.0,-4.0,Europe
+sudtirol - alto adige,Italy,46.441472,11.282121,Europe
+chateauneuf-du-pape,France,44.055989,4.8317351,Europe
+valdeorras,Spain,42.3483416,-6.9659982,Europe
+santenay,France,46.9115071,4.6996302,Europe
+roero,Italy,44.7806865,7.9311892,Europe
+cotes du roussillon,France,45.3709088,4.8124715,Europe
+valpolicella ripasso,Italy,42.83333,12.83333,Europe
+binissalem-mallorca,Spain,39.6002717,2.6720865,Europe
+piemonte,Italy,45.060735,7.923549,Europe
+toro,Spain,41.5216963,-5.3939824,Europe
+sicilia,Italy,37.587794,14.155048,Europe
+russian river valley,United States,39.2789696,-123.1029778,North America
+chalkidiki,Greece,40.3309627,23.3621462,Europe
+valpolicella classico,Italy,42.83333,12.83333,Europe
+jumilla,Spain,38.4735408,-1.3285417,Europe
+penedes,Spain,41.3463825,1.6995213,Europe
+bolgheri superiore,Italy,44.46006,7.10425,Europe
+wachau,Austria,47.7286939,16.2263822,Europe
+arroyo seco,United States,36.5160231,-105.5699891,North America
+amarone della valpolicella classico,Italy,42.83333,12.83333,Europe
+lisboa,Portugal,38.7077507,-9.1365919,Europe
+irpinia,Italy,39.2278067,9.1185486,Europe
+columbia valley,United States,46.1576117,-122.9748352,North America
+castel san lorenzo,Italy,40.418308,15.227157,Europe
+valle d'aosta,Italy,45.730099,7.387426,Europe
+cote de nuits villages,France,48.993539,2.061083,Europe
+vino nobile di montepulciano,Italy,43.0716467,11.8054771,Europe
+carinena,Spain,41.3382122,-1.2263149,Europe
+hermitage,France,47.6406711,-2.7637153,Europe
+dolcetto d'alba,Italy,42.83333,12.83333,Europe
+ventoux,France,48.6778082,2.1768592,Europe
+maipo valley,Chile,-30.0,-71.0,South America
+salice salentino,Italy,40.3856618,17.9637483,Europe
+valle de guadalupe,Mexico,21.0426533,-102.6798646,North America
+alicante,Spain,38.3436365,-0.4881708,Europe
+wellington,South Africa,-33.643055,19.010556,Africa
+montepulciano d'abruzzo,Italy,42.1565463,14.6066804,Europe
+nemea,Greece,37.8209952,22.6613055,Europe
+san juan,Argentina,-30.7054363,-69.1988222,South America
+valpolicella,Italy,45.5296706,10.9400217,Europe
+gevrey-chambertin,France,47.2261857,4.9705666,Europe
+valencia,Spain,39.4697065,-0.3763353,Europe
+south eastern,Moldova,47.25,28.58333,Europe
+swartland,South Africa,-33.29356,18.5993825,Africa
+torgiano,Italy,43.028542,12.44136,Europe
+willamette valley,United States,44.9086731,-123.0022929,North America
+north coast,United States,41.506534,-81.6939953,North America
+tupungato,Argentina,-33.3723648,-69.1479533,South America
+taurasi,Italy,41.0083503,14.9574387,Europe
+colchagua valley,Chile,-30.0,-71.0,South America
+lalande-de-pomerol,France,44.9560756,-0.2104434,Europe
+la clape,France,42.9675839,2.5482974,Europe
+bordeaux superieur,France,44.884045,-0.562129,Europe
+valpolicella valpantena,Italy,45.53333,11.0,Europe
+maremma toscana,Italy,42.7027722,11.1367433,Europe
+extremadura,Spain,39.1748426,-6.1529891,Europe
+somontano,Spain,42.0883878,0.0994041,Europe
+robertson,South Africa,-33.802222,19.883611,Africa
+cachapoal valley,Chile,-30.0,-71.0,South America
+livermore valley,United States,36.009638,-115.2831998,North America
+montagne-saint-emilion,France,44.9239804,-0.1798164,Europe
+central coast,United States,44.4190178,-124.0763817,North America
+comte tolosan,France,43.105511,5.844843,Europe
+wurttemberg,Germany,48.3366504,9.0994058,Europe
+mallorca,Spain,39.613432,2.8829185,Europe
+beaujolais,France,46.1186123,4.6156707,Europe
+ahr,Germany,50.4728741,6.9477258,Europe
+uco valley,Argentina,-34.0,-64.0,South America
+givry,France,46.7831191,4.7432564,Europe
+bandol,France,43.1357717,5.7523647,Europe
+dry creek valley,United States,39.9545792,-119.9544961,North America
+rosso di montepulciano,Italy,43.0921014,11.7818472,Europe
+los carneros,United States,34.4403502,-119.8493992,North America
+aconcagua valley,Chile,-30.0,-71.0,South America
+cotes de bordeaux,France,44.6044102,-0.1818567,Europe
+neusiedlersee,Austria,47.8030761,16.6469854,Europe
+rosso piceno,Italy,42.9446956,13.8100261,Europe
+etna,Italy,37.7510251,14.9940321,Europe
+venezia giulia,Italy,45.6528943,13.7804956,Europe
+cotes-du-rhone-villages 'sablet',France,44.192483,5.005664,Europe
+ucles,Spain,39.9804328,-2.8615799,Europe
+rheinhessen,Germany,49.9045181,8.2711082,Europe
+minervois la liviniere,France,43.3124595,2.6385734,Europe
+moulis-en-medoc,France,45.0564852,-0.7736381,Europe
+samburesti,Romania,44.8063848,24.3993993,Europe
+aigle,Switzerland,46.3179006,6.9688929,Europe
+chinon,France,47.1667182,0.2402095,Europe
+isola dei nuraghi,Italy,40.7092886,9.6990329,Europe
+puisseguin-saint-emilion,France,44.924616,-0.079579,Europe
+franken,Germany,50.5011427,7.2341043,Europe
+langhe,Italy,44.493036,7.974639,Europe
+langhorne creek,Australia,-35.295938,139.0364451,Oceania
+mentrida,Spain,40.2379032,-4.1945535,Europe
+gimblett gravels,New Zealand,-39.5972737,176.7363498,Oceania
+sta. rita hills,United States,55.466733,-131.806174,North America
+cotes de bourg,France,45.0343476,-0.4954363,Europe
+morellino di scansano,Italy,42.7125537,11.2280516,Europe
+thermenregion,Austria,48.0463345,16.270762,Europe
+lujan de cuyo,Argentina,-33.1085238,-69.0129984,South America
+crozes-hermitage,France,45.0907,4.84592,Europe
+goumenissa,Greece,40.9466441,22.4519413,Europe
+cadillac - cotes de bordeaux,France,44.700287,-0.389212,Europe
+romagna,Italy,44.4914458,11.3435713,Europe
+beaujolais-villages,France,46.055504,4.592934,Europe
+oakville,United States,41.0998174,-91.0444022,North America
+western cape,South Africa,-33.546977,20.72753,Africa
+eden valley,Australia,-34.6666979,139.1299649,Oceania
+valtellina,Italy,46.18333,9.91667,Europe
+rapel valley,Chile,-30.0,-71.0,South America
+dundee hills,United States,39.1716557,-94.5792892,North America
+amarone della valpolicella valpantena,Italy,45.53333,11.0,Europe
+bardolino classico,Italy,42.83333,12.83333,Europe
+mosel,Germany,50.7810263,12.4780171,Europe
+valdepenas,Spain,38.7594573,-3.3847392,Europe
+montefalco,Italy,42.8918739,12.6500673,Europe
+coste della sesia,Italy,45.24504,8.52797,Europe
+hunter valley,Australia,-32.5421803,151.2185641,Oceania
+maipu,Argentina,-32.9836929,-68.7879502,South America
+cotes du roussillon villages,France,49.023373,2.210713,Europe
+saint-drezery,France,43.7314311,3.9775826,Europe
+durbanville,South Africa,-33.8402778,18.6494444,Africa
+podravje,Slovenia,45.5561743,13.8676502,Europe
+pedernal valley,Argentina,-34.0,-64.0,South America
+nebbiolo d'alba,Italy,44.6978607,8.0094185,Europe
+aragon,Spain,41.3787291,-0.7639373,Europe
+alentejo,Portugal,38.0551003,-7.8605799,Europe
+savigny-les-beaune 1er cru 'aux clous',France,47.069606,4.799696,Europe
+buzet,France,43.7096644,-0.8313243,Europe
+vins des allobroges,France,46.198945,6.246902,Europe
+clare valley,Australia,-33.7890862,138.590557,Oceania
+aglianico del vulture,Italy,40.95125,15.63543,Europe
+campania,Italy,40.860672,14.843984,Europe
+francs - cotes de bordeaux,France,44.9379818,-0.020966,Europe
+elgin,South Africa,-34.1486111,19.0427778,Africa
+carignano del sulcis,Italy,39.06667,8.68333,Europe
+calabria,Italy,39.0565974,16.5249864,Europe
+pezenas,France,43.4611777,3.4228323,Europe
+volnay,France,47.0016955,4.7811102,Europe
+cotes de provence,France,43.4370505,6.652775,Europe
+irpinia campi taurasini,Italy,42.83333,12.83333,Europe
+galilee,Israel,32.8008444,35.5889732,Asia
+gard,France,43.95995,4.297637,Europe
+vin de pays,France,43.22744,2.9252606,Europe
+patagonia,Argentina,-44.9900698,-70.6734314,South America
+niederosterreich,Austria,48.2817813,15.7632457,Europe
+languedoc-roussillon,France,43.508482,2.34549,Europe
+copertino,Italy,40.2716808,18.0502517,Europe
+herault,France,43.591422,3.3553309,Europe
+wien,Austria,48.2083537,16.3725042,Europe
+gattinara,Italy,45.6142424,8.3711382,Europe
+lacrima di morro d'alba,Italy,43.6,13.21331,Europe
+riverina,Australia,-37.8001708,144.907214,Oceania
+kakheti,Georgia,41.737352,45.6721781,Asia
+dao,Portugal,39.9375585,-7.8638768,Europe
+cape agulhas,South Africa,-34.8332895,19.9999379,Africa
+collio,Italy,45.8093124,10.3328723,Europe
+valtellina superiore,Italy,44.46006,7.10425,Europe
+graves,France,45.9390047,4.6887788,Europe
+carmignano,Italy,43.8140654,11.0190297,Europe
+costieres-de-nimes,France,43.8174458,4.358032,Europe
+coastal region,South Africa,-29.0,24.0,Africa
+sonoma valley,United States,40.8421262,-117.5659571,North America
+calatayud,Spain,41.3527628,-1.6422977,Europe
+calistoga,United States,38.582615,-122.583326,North America
+rosso veronese,Italy,45.638774,11.1120379,Europe
+teroldego rotaliano,Italy,42.83333,12.83333,Europe
+garda,Italy,45.5756512,10.7085298,Europe
+bekaa valley,Lebanon,33.83333,36.0,Asia
+terre di chieti,Italy,42.3503,14.16773,Europe
+fleurie,France,46.1920243,4.6981214,Europe
+zurich,Switzerland,47.3744489,8.5410422,Europe
+pommard,France,47.0087919,4.7962295,Europe
+utiel-requena,Spain,39.5492854,-1.2511657,Europe
+saumur,France,47.2541743,-0.0661854,Europe
+mehedinti,Romania,44.6042177,23.0526774,Europe
+santorini,Greece,36.4071112,25.4566637,Europe
+moulin-a-vent,France,48.3531107,1.7606778,Europe
+musigny grand cru,France,47.1760791,4.9535106,Europe
+mittelburgenland,Austria,47.504516,16.4944303,Europe
+lontue valley,Chile,-30.0,-71.0,South America
+curico valley,Chile,-30.0,-71.0,South America
+bairrada,Portugal,39.5728582,-8.3627694,Europe
+hawke's bay,New Zealand,-39.5256512,176.7611457,Oceania
+casablanca valley,Chile,-30.0,-71.0,South America
+sonoma coast,United States,28.4225165,-81.6551998,North America
+collines rhodaniennes,France,48.098074,-1.706968,Europe
+marche,Italy,43.3458388,13.1415872,Europe
+mercurey,France,46.8396584,4.7189272,Europe
+rully,France,49.2359777,2.7280667,Europe
+morgon,France,46.1443559,4.6781061,Europe
+nuits-saint-georges,France,47.1367598,4.9489061,Europe
+san jose,Uruguay,-34.455,-56.616944,South America
+anderson valley,United States,39.0600021,-123.4305338,North America
+lugana,Italy,45.4600534,10.6196897,Europe
+julienas,France,46.2347371,4.7114718,Europe
+terra alta,Spain,41.0273523,0.4105997,Europe
+trentino-alto adige,Italy,46.441472,11.282121,Europe
+castillon - cotes de bordeaux,France,44.840548,-0.576062,Europe
+cortona,Italy,43.2752976,11.9850623,Europe
+constantia,South Africa,-34.0283333,18.4155556,Africa
+thrace,Turkey,41.2170107,27.116227,Asia
+sardegna,Italy,40.0912813,9.0305773,Europe
+san rafael,Argentina,-34.6126025,-68.330514,South America
+verona,Italy,45.4424977,10.9857377,Europe
+dealurile olteniei,Romania,46.0,25.0,Europe
+srednja i juzna dalmacija,Croatia,43.0,17.0,Europe
+sforzato della valtellina,Italy,46.18333,9.91667,Europe
+encruzilhada do sul,Brazil,-30.5433066,-52.5223514,South America
+rioja alta,Spain,42.4157318,-2.8794739,Europe
+colli euganei,Italy,45.226734,11.6638662,Europe
+emporda,Spain,42.2902495,2.9751099,Europe
+waipara,New Zealand,-43.058482,172.7602403,Oceania
+vosne-romanee,France,47.1585795,4.9547623,Europe
+var,France,43.4173551,6.2664637,Europe
+cape town,South Africa,-33.928992,18.417396,Africa
+givry 1er cru 'cellier aux moines',France,46.784758,4.745873,Europe
+conca de barbera,Spain,41.4438957,1.1885113,Europe
+dominio de valdepusa,Spain,40.0,-4.0,Europe
+coteaux bourguignons,France,48.130756,4.353561,Europe
+ortona,Italy,42.349643,14.403913,Europe
+pic-saint-loup,France,43.7788923,3.81117,Europe
+saint-emilion,France,44.8931452,-0.1560662,Europe
+valdejalon,Spain,41.5381393,-1.3088316,Europe
+cahors,France,44.4495,1.4364999,Europe
+chianti colli senesi,Italy,43.3219503,11.3293829,Europe
+saint-amour,France,46.4358751,5.3421832,Europe
+alexander valley,United States,38.6712308,-122.8278697,North America
+south island,New Zealand,-43.586562,171.2123294,Oceania
+calchaqui valley,Argentina,-34.0,-64.0,South America
+lodi,United States,38.097198,-121.3878496,North America
+adelaide hills,Australia,-34.9013511,138.8293202,Oceania
+fleurieu,Australia,-35.5081882,138.477657,Oceania
+nuits-saint-georges 1er cru 'aux perdrix',France,46.0,2.0,Europe
+vino d'italia,Italy,41.2674815,16.4404727,Europe
+contea di sclafani,Italy,37.67692,13.27074,Europe
+bolgheri sassicaia,Italy,42.83333,12.83333,Europe
+costers del segre,Spain,41.5022982,0.827399,Europe
+val di neto,Italy,39.1881325,16.8550962,Europe
+portalegre,Portugal,39.2076447,-7.7215134,Europe
+delle venezie,Italy,45.3485187,11.9571797,Europe
+canon-fronsac,France,44.9261675,-0.3018095,Europe
+friuli-venezia giulia,Italy,46.151042,13.055904,Europe
+listrac-medoc,France,45.0736769,-0.7905774,Europe
+margaret river,Australia,-33.9531776,115.0769369,Oceania
+beaune premier cru,France,47.0498553,4.8332114,Europe
+horse heaven hills,United States,46.1808124,-119.1527983,North America
+aconcagua,Chile,-33.0569284,-71.4695607,South America
+alsace,France,50.7007285,3.160983,Europe
+tarantino,Italy,40.0205159,16.0898852,Europe
+umbria,Italy,42.965916,12.490236,Europe
+corsica,France,42.1880896,9.0684138,Europe
+murray darling,Australia,-34.11083,141.91,Oceania
+monferrato,Italy,45.3240864,8.4230282,Europe
+murfatlar,Romania,44.1742796,28.4107956,Europe
+aloxe-corton,France,47.0653471,4.8596328,Europe
+rubicone,Italy,44.0660923,12.3609442,Europe
+la consulta,Argentina,-33.7366936,-69.1185092,South America
+pla de bages,Spain,41.7785429,1.8904077,Europe
+cafayate valley,Argentina,-34.0,-64.0,South America
+borba,Portugal,38.8057942,-7.4542105,Europe
+martinborough,New Zealand,-41.2183252,175.4594856,Oceania
+salta,Argentina,-25.1076701,-64.3494964,South America
+rasteau,France,44.2298319,4.9856444,Europe
+vacqueyras,France,44.1382621,4.9823958,Europe
+rio grande do sul,Brazil,-29.8425284,-53.7680577,South America
+costa toscana,Italy,44.3847518,9.8466946,Europe
+lago di corbara,Italy,42.7274798,12.2545458,Europe
+otazu,Spain,42.8317497,-2.6275294,Europe
+coonawarra,Australia,-37.2909105,140.8346628,Oceania
+progreso,Uruguay,-34.6798644,-56.2154727,South America
+cerasuolo di vittoria,Italy,36.9727671,14.5519145,Europe
+beaune 1er cru 'les greves',France,47.069606,4.799696,Europe
+corton grand cru,France,47.0774019,4.8662712,Europe
+kamptal,Austria,48.513417,15.6940311,Europe
+cotes de thongue,France,45.508189,2.697212,Europe
+ardeche,France,44.815194,4.3986525,Europe
+tejo,Portugal,38.7617281,-9.0936239,Europe
+limari valley,Chile,-30.0,-71.0,South America
+cote de beaune villages,France,47.341173,1.160339,Europe
+brindisi,Italy,40.6359197,17.6884434,Europe
+terre degli osci,Italy,42.83333,12.83333,Europe
+castel del monte,Italy,41.0847439,16.2711145,Europe
+saint-chinian,France,43.4215,2.94677,Europe
+bajo aragon,Spain,40.954455,-0.2099552,Europe
+taburno,Italy,41.131518,14.645935,Europe
+curtefranca,Italy,42.83333,12.83333,Europe
+ribatejo,Portugal,41.1828303,-8.6464755,Europe
+chianti rufina,Italy,42.83333,12.83333,Europe
+cornas,France,44.963521,4.847545,Europe
+montepulciano d'abruzzo colline teramane,Italy,42.83333,12.83333,Europe
+montefalco sagrantino,Italy,42.83333,12.83333,Europe
+cigales,Spain,41.7582863,-4.6989785,Europe
+sonoma county,United States,38.5110803,-122.8473388,North America
+paso robles,United States,35.6262618,-120.6901319,North America
+sardon de duero,Spain,41.6085193,-4.4339323,Europe
+blaye - cotes de bordeaux,France,44.847782,-0.544389,Europe
+wahluke slope,United States,46.7206936,-119.3980773,North America
+drama,Greece,41.1499443,24.1468286,Europe
+st. helena,United States,38.5038315,-122.4670706,North America
+yamhill-carlton district,United States,38.857112,-76.901173,North America
+tulum valley,Argentina,-34.0,-64.0,South America
+lussac-saint-emilion,France,48.833215,2.386682,Europe
+aconcagua costa,Chile,-41.3246965,-72.9816843,South America
+tunuyan,Argentina,-33.5812925,-69.0154258,South America
+santa cruz mountains,United States,37.163834,-122.012182,North America
+citrusdal mountain,South Africa,-29.0,24.0,Africa
+tulbagh,South Africa,-33.285059,19.140667,Africa
+menfi,Italy,37.606639,12.967843,Europe
+monterey county,United States,36.2231079,-121.387742,North America
+cotes du roussillon villages 'latour de france',France,45.096585,0.713981,Europe
+manchuela,Spain,39.2837185,-1.472249,Europe
+ningxia,China,37.0000001,105.9999999,Asia
+maldonado,Uruguay,-34.9087162,-54.9582718,South America
+central victoria,Australia,-37.5600576,143.8442795,Oceania
+santa lucia highlands,United States,41.142528,-78.702202,North America
+ciro,Italy,39.381732,17.0613529,Europe
+peumo,Chile,-34.3959163,-71.1694264,South America
+peninsula de setubal,Portugal,38.644731,-9.194438,Europe
+sangiovese di romagna,Italy,44.0567123,12.4028882,Europe
+stajerska,Slovenia,46.074563,14.5245562,Europe
+cadiz,Spain,36.5297438,-6.2928976,Europe
+neusiedlersee-hugelland,Austria,47.33333,13.33333,Europe
+burkheim,Germany,48.1009455,7.5982951,Europe
+groenekloof,South Africa,-29.5520465,30.2981535,Africa
+barbera del monferrato,Italy,44.77416,8.35784,Europe
+overberg,South Africa,-33.9100754,18.8477798,Africa
+lombardia,Italy,45.5703694,9.7732524,Europe
+clos de lambrays grand cru,France,47.1980645,4.9590021,Europe
+provincia di pavia,Italy,45.0368546,9.1378251,Europe
+rheingau,Germany,50.1339394,8.0701591,Europe
+vosne-romanee premier cru,France,47.160442,4.953542,Europe
+chambolle-musigny,France,47.1864158,4.9533347,Europe
+morey-saint-denis,France,47.1955052,4.9623167,Europe
+cotes-du-rhone-villages 'seguret',France,44.21325,5.017583,Europe
+cotes-du-rhone-villages,France,45.4559451,5.5192803,Europe
+sudsteiermark,Austria,46.7742389,15.6670127,Europe
+piave,Italy,46.1349433,12.2277777,Europe
+pla i llevant,Spain,39.7710681,3.3609527,Europe
+aargau,Switzerland,47.412396,8.1948321,Europe
+clos vougeot grand cru,France,47.1720514,4.958921,Europe
+gevrey-chambertin 1er cru 'issarts',France,47.222763,4.963488,Europe
+volnay 1er cru 'clos des chenes',France,47.116091,6.374583,Europe
+arbois,France,46.9032246,5.7727504,Europe
+saale-unstrut,Germany,51.3663031,11.0216863,Europe
+valtenesi,Italy,45.5475424,10.5347699,Europe
+cotes de gascogne,France,48.510283,-2.787756,Europe
+bonnes-mares grand cru,France,47.1919287,4.9572815,Europe
+sudoststeiermark,Austria,46.8596717,15.8503647,Europe
+madrid,Spain,40.4777915,-3.6858017,Europe
+evora,Portugal,38.5707742,-7.9092808,Europe
+montecucco,Italy,43.4902269,13.334434,Europe
+sudburgenland,Austria,47.2915075,16.2072922,Europe
+slovakia,Slovakia,48.7411522,19.4528646,Europe
+sachsen,Germany,50.9295798,13.4585052,Europe
+cotes du tarn,France,43.899145,1.895175,Europe
+brouilly,France,46.1039914,4.646337,Europe
+mediterranee,France,43.6487851,2.3435684,Europe
+nuits-saint-georges premier cru,France,47.1543772,4.9456437,Europe
+wagram,Austria,48.4173292,15.9560853,Europe
+mercurey 1er cru 'le clos du roy',France,46.826683,4.719678,Europe
+victoria,Australia,-36.5986096,144.6780052,Oceania
+nahe,Germany,49.7874798,7.4869735,Europe
+venezia,Italy,45.4371908,12.3345898,Europe
+coteaux varois en provence,France,47.283531,0.303704,Europe
+malepere,France,42.9636422,2.475452,Europe
+orvietano rosso,Italy,46.20771,8.2349,Europe
+mercurey 1er cru 'le clos l'eveque',France,46.835551,4.733906,Europe
+darling,South Africa,-33.376426,18.379189,Africa
+tierra de leon,Spain,42.2962289,-5.5236505,Europe
+friuli grave,Italy,45.73251,12.41657,Europe
+ticino,Switzerland,46.3351913,8.7525902,Europe
+colli orientali del friuli,Italy,46.0023998,13.4412468,Europe
+gioia del colle,Italy,40.796728,16.92359,Europe
+rivesaltes,France,42.7683568,2.8709277,Europe
+saint-georges-saint-emilion,France,3.891299,-51.802112,Europe
+villany,Hungary,45.8697644,18.4555208,Europe
+molise,Italy,41.684672,14.595614,Europe
+lenswood,Australia,-34.920215,138.8284007,Oceania
+charmes-chambertin grand cru,France,47.168046,3.492699,Europe
+luberon,France,43.8559446,5.5895866,Europe
+savigny-les-beaune 1er cru 'les lavieres',France,47.069606,4.799696,Europe
+torgiano rosso riserva,Italy,42.83333,12.83333,Europe
+chambolle-musigny 1er cru 'les charmes',France,47.178987,4.963681,Europe
+santa maria valley,United States,34.9941664,-120.557098,North America
+breede river valley,South Africa,-33.727,19.4728097,Africa
+kremstal,Austria,47.9263917,14.0780469,Europe
+gualtallary,Argentina,-33.3852648,-69.2771287,South America
+paestum,Italy,40.4216783,15.0148832,Europe
+alghero,Italy,40.5587291,8.3153206,Europe
+red mountain,United States,37.112242,-105.1811176,North America
+graubunden,Switzerland,46.6960615,9.6027351,Europe
+vougeot 1er cru 'les petits vougeots',France,47.178799,4.96358,Europe
+vosne-romanee 1er cru 'les beaux monts',France,47.160442,4.953542,Europe
+saint-georges d’orques,France,43.6105846,3.7788383,Europe
+mazis-chambertin grand cru,France,47.09362,2.80038,Europe
+sebino,Italy,45.7388781,10.0708661,Europe
+vaucluse,France,43.9938643,5.1818898,Europe
+vinsobres,France,44.3339938,5.0609674,Europe
+pecharmant,France,44.8674719,0.5158518,Europe
+beaune 1er cru 'champs pimont',France,47.069606,4.799696,Europe
+bourgogne hautes-cotes de nuits,France,47.114796,5.052354,Europe
+cairanne,France,44.2290077,4.9335365,Europe
+chorey-les-beaune,France,47.0478752,4.8666174,Europe
+goriska brda,Slovenia,45.9984652,13.5221391,Europe
+central otago,New Zealand,-45.350509,169.696148,Oceania
+abruzzo,Italy,42.227681,13.854983,Europe
+danube,Romania,45.4673548,28.211098,Europe
+valtiendas,Spain,41.477802,-3.9180548,Europe
+emilia-romagna,Italy,44.525696,11.039437,Europe
+sainte-foy-bordeaux,France,44.848092,-0.572718,Europe
+saint-mont,France,43.6519486,-0.1506191,Europe
+gisborne,New Zealand,-38.661326,178.0206487,Oceania
+oregon,United States,43.9792797,-120.737257,North America
+bottelary,South Africa,-33.9037246,18.7493443,Africa
+maury,France,42.8102692,2.5935825,Europe
+parrina,Italy,42.5082807,11.2423099,Europe
+agrelo,Argentina,-33.1184629,-68.8859261,South America
+new south wales,Australia,-31.8759835,147.2869493,Oceania
+cotes-du-rhone-villages 'saint-maurice',France,49.459434,0.612073,Europe
+pommard 1er cru 'les grands epenots',France,47.01234,4.797962,Europe
+naoussa,Greece,40.630574,22.0696057,Europe
+napa county,United States,38.4898675,-122.3218414,North America
+mayschoss,Germany,50.5220282,7.0197776,Europe
+colli pesaresi,Italy,42.83333,12.83333,Europe
+puente alto,Chile,-33.6095279,-70.5754736,South America
+cote de beaune,France,47.0436294,4.8175252,Europe
+pazardjik,Bulgaria,42.1884549,24.3318993,Europe
+tarnave,Romania,46.2082736,24.5432284,Europe
+nelson,New Zealand,-41.2710849,173.2836756,Oceania
+roccamonfina,Italy,41.2897429,13.9834693,Europe
+cotes du brian,France,46.300793,4.149292,Europe
+echezeaux grand cru,France,47.1729814,4.9538661,Europe
+nuits-saint-georges 1er cru 'aux murgers',France,46.0,2.0,Europe
+cotes-du-rhone-villages 'massif d'uchaux',France,43.756953,4.267703,Europe
+pernand-vergelesses premier cru,France,47.080639,4.851361,Europe
+marsannay,France,47.2705441,4.9884218,Europe
+vista flores,Argentina,-33.6509493,-69.1555479,South America
+ribeira sacra,Spain,42.4447399,-7.7290925,Europe
+heideboden,Austria,47.8933923,16.8971977,Europe
+dolcetto d'acqui,Italy,42.83333,12.83333,Europe
+pago florentino,Spain,40.0,-4.0,Europe
+givry 1er cru 'clos marole',France,46.785161,4.743166,Europe
+vallee du paradis,France,43.437377,6.8517785,Europe
+dalmatian coast,Croatia,45.16667,15.5,Europe
+cote de brouilly,France,46.1005732,4.654668,Europe
+terrazze retiche di sondrio,Italy,46.16852,9.87134,Europe
+niagara peninsula,Canada,43.0408117,-79.5394463,North America
+colli del limbara,Italy,42.83333,12.83333,Europe
+vipava,Slovenia,45.8466286,13.961222,Europe
+contessa entellina,Italy,37.7309803,13.1831444,Europe
+montpeyroux,France,44.9211111,0.0577778,Europe
+ahrweiler,Germany,50.4365274,7.0050227,Europe
+german wine,Germany,51.5,10.5,Europe
+knights valley,United States,34.757985,-82.242893,North America
+vino de espana,Spain,41.6671494,-4.7141337,Europe
+givry 1er cru 'vigne rouge',France,46.776267,4.724261,Europe
+bot river,South Africa,-34.1836055,19.2231989,Africa
+ontario,Canada,50.000678,-86.000977,North America
+long island,United States,40.851497,-73.0994297,North America
+daunia,Italy,44.6378266,10.9410518,Europe
+transylvania,Romania,46.5971623,24.3740295,Europe
+limestone coast,Australia,-36.9446267,139.6994181,Oceania
+cotes-du-rhone-villages 'visan',France,47.875917,3.874297,Europe
+almeirim,Portugal,39.2091925,-8.6291035,Europe
+saint-guilhem-le-desert,France,43.734,3.54852,Europe
+cote vermeille,France,42.4804512,3.1379512,Europe
+savigny-les-beaune,France,47.0628612,4.8185532,Europe
+saumur-champigny,France,47.2322933,-0.0211322,Europe
+colli di luni,Italy,44.06667,9.98333,Europe
+san gimignano,Italy,43.4677993,11.0432115,Europe
+bourgogne epineuil,France,47.867487,3.97622,Europe
+offida,Italy,42.9348208,13.6910435,Europe
+valdadige terradeiforti,Italy,42.83333,12.83333,Europe
+rioja alavesa,Spain,42.544151,-2.5454224,Europe
+rutherford,United States,35.3994626,-81.9023191,North America
+volnay 1er cru 'clos de la barre',France,47.001023,4.782388,Europe
+weinviertel,Austria,48.4968419,16.334688,Europe
+cotes-du-rhone-villages 'plan de dieu',France,44.165133,4.950209,Europe
+barbera del monferrato superiore,Italy,44.46006,7.10425,Europe
+santenay 1er cru 'beauregard',France,48.99088,2.002468,Europe
+leyda valley,Chile,-30.0,-71.0,South America
+friuli aquileia,Italy,45.6691478,13.7643155,Europe
+grampians,Australia,-37.3732495,142.2788917,Oceania
+macon,France,46.3036683,4.8322266,Europe
+monica di sardegna,Italy,40.8049407,8.5700324,Europe
+nardo,Italy,40.1762608,18.0306371,Europe
+sierras de malaga,Spain,36.9218381,-4.0957668,Europe
+san severo,Italy,41.6897761,15.3776211,Europe
+barco reale di carmignano,Italy,43.8139111,11.019155,Europe
+southeastern anatolia,Turkey,37.673541,40.4716008,Asia
+heathcote,Australia,-36.9160908,144.7033003,Oceania
+san antonio valley,Chile,-30.0,-71.0,South America
+sant'antimo,Italy,40.945711,14.231429,Europe
+alenquer,Portugal,39.056633,-9.0076057,Europe
+volnay 1er cru 'carelle sous la chapelle',France,47.88648,1.8345,Europe
+campo de la guardia,Spain,39.2558889,-4.4794873,Europe
+biferno,Italy,41.7282833,14.7330239,Europe
+gres de montpellier,France,43.7042863,4.113817,Europe
+bergerac,France,44.8534568,0.487531,Europe
+volnay 1er cru 'santenots',France,46.0,2.0,Europe
+aude,France,43.0542733,2.5124715,Europe
+nizza,Italy,37.992622,15.4119128,Europe
+cabardes,France,43.265544,2.28401,Europe
+valais,Switzerland,46.2303063,7.6605757,Europe
+volnay premier cru,France,47.09362,2.80038,Europe
+colli della toscana centrale,Italy,45.72737,11.48031,Europe
+rapsani,Greece,39.9020296,22.54849,Europe
+agio oros,Greece,40.2844848,24.1860473,Europe
+beaune 1er cru 'aux cras',France,47.027235,4.860556,Europe
+campanha,Brazil,-21.8361108,-45.401986,South America
+bardolino superiore,Italy,44.46006,7.10425,Europe
+pomino,Italy,43.8151012,11.5506357,Europe
+san carlos,Argentina,-25.7995047,-66.0721546,South America
+simonsberg-stellenbosch,South Africa,-33.9256397,18.8801329,Africa
+loire valley,France,47.396728,-0.53276,Europe
+beaune 1er cru 'le clos des mouches',France,46.993884,4.849924,Europe
+fixin,France,47.2455008,4.9728452,Europe
+bourgogne hautes-cotes de beaune,France,47.064785,4.814114,Europe
+brachetto d'acqui,Italy,42.83333,12.83333,Europe
+limoux,France,43.0538068,2.2176533,Europe
+slopes of enos,Greece,39.0,22.0,Europe
+benaco bresciano,Italy,45.7685861,10.7618327,Europe
+mount veeder,United States,38.3793566,-122.4477575,North America
+liguria,Italy,44.4777617,8.7026296,Europe
+south west france,France,44.2582021,0.297966,Europe
+douro superior,Portugal,41.0912762,-6.8119369,Europe
+maures,France,43.1381313,6.2355346,Europe
+basilicata,Italy,40.500571,16.081953,Europe
+cerasuolo d'abruzzo,Italy,42.83333,12.83333,Europe
+provence,France,44.0580563,6.0638506,Europe
+bardolino chiaretto,Italy,42.71231,13.78745,Europe
+tavel,France,44.0127055,4.6982216,Europe
+alghero,Italy,40.584479,8.3576056,Europe
+nahe,Germany,49.5404375,7.0255739,Europe
+recas,Romania,45.8017298,21.5094023,Europe
+coteaux d'aix-en-provence,France,43.5276676,5.4063971,Europe
+acores,Portugal,37.8085564,-25.4731374,Europe
+rose d'anjou,France,48.777171,2.345117,Europe
+yakima valley,United States,46.5864196,-120.5278214,North America
+cremant de loire,France,47.217396,1.647682,Europe
+champagne,France,45.831944,-0.906667,Europe
+asti,Italy,44.8260126,8.2026863,Europe
+moscato d'asti,Italy,42.83333,12.83333,Europe
+getariako txakolina,Spain,40.0,-4.0,Europe
+lambrusco di sorbara,Italy,44.753007,11.009671,Europe
+franciacorta,Italy,45.5891866,10.076411,Europe
+trento,Italy,46.1029536,11.1297425,Europe
+conegliano-valdobbiadene prosecco,Italy,45.9018627,12.0015464,Europe
+cremant du jura,France,47.020599,5.789582,Europe
+champagne premier cru,France,45.621911,-0.2826,Europe
+prosecco,Italy,45.7083528,13.733628,Europe
+cremant de limoux,France,50.356597,3.107697,Europe
+modena,Italy,44.5384728,10.9359609,Europe
+prosecco di treviso,Italy,45.9018627,12.0015464,Europe
+champagne grand cru 'ay',France,49.056828,3.992173,Europe
+cava,Spain,42.3165817,1.6111497,Europe
+blanquette de limoux,France,42.9663792,2.182923,Europe
+kent,United Kingdom,51.2070748,0.7210362,Europe
+champagne grand cru 'bouzy',France,49.07978,4.14772,Europe
+alta langa,Italy,44.4243895,8.202921,Europe
+champagne grand cru,France,48.78972,2.584345,Europe
+reggiano,Italy,44.4001918,10.4177622,Europe
+emilia,Italy,44.4914458,11.3435713,Europe
+wiltingen,Germany,49.6591723,6.590185,Europe
+macon-prisse,France,46.3339517,4.7335828,Europe
+luxembourg,Luxembourg,49.8158683,6.1296751,Europe
+muscadet-sevre et maine,France,46.76978,-0.432688,Europe
+rias baixas,Spain,42.8819145,-8.5487998,Europe
+pouilly-vinzelles,France,46.2781723,4.7833364,Europe
+meursault,France,46.9783803,4.7694038,Europe
+tolna,Hungary,46.4883447,18.5050005,Europe
+soave classico,Italy,42.83333,12.83333,Europe
+chablis 1er cru 'vaillons',France,46.0,2.0,Europe
+minho,Portugal,41.6347151,-8.1425725,Europe
+vernaccia di san gimignano,Italy,43.4680172,11.0419989,Europe
+johannisberg,Germany,50.0031207,7.9811854,Europe
+mitterberg,Italy,46.7088172,11.752371,Europe
+trebbiano d'abruzzo,Italy,42.83333,12.83333,Europe
+bergland,Austria,48.151798,15.1892956,Europe
+cape point,South Africa,-34.3573947,18.4977883,Africa
+bordeaux sec,France,49.2979146,1.9208476,Europe
+graach,Germany,49.9352333,7.0634184,Europe
+vermentino di gallura,Italy,41.0,9.21667,Europe
+vinho verde,Portugal,41.0645447,-8.2348455,Europe
+verdicchio dei castelli di jesi,Italy,43.52142,13.24368,Europe
+alsace grand cru 'geisberg',France,46.0,2.0,Europe
+condrieu,France,45.4624294,4.7676199,Europe
+bourgogne aligote,France,47.950902,5.754252,Europe
+meursault 1er cru 'genevrieres',France,47.72152,5.6065,Europe
+balaton,Hungary,46.8839313,17.8476796,Europe
+coteaux-d'enserune,France,43.279351,3.113149,Europe
+piesport,Germany,49.8813655,6.9195718,Europe
+escherndorf,Germany,49.861478,10.1738952,Europe
+nierstein,Germany,49.8710847,8.3365369,Europe
+rueda,Spain,41.4129785,-4.9597533,Europe
+verdicchio di matelica,Italy,43.2627162,13.0251348,Europe
+pouilly-fuisse,France,46.276369,4.786048,Europe
+steiermark,Austria,47.2500001,15.1666665,Europe
+pacherenc du vic-bilh sec,France,43.415007,-0.194387,Europe
+saint-aubin 1er cru 'le charmois',France,48.42138,1.24411,Europe
+colli martani,Italy,44.84965,9.90152,Europe
+meursault premier cru,France,46.9648007,4.7567068,Europe
+colli tortonesi,Italy,42.83333,12.83333,Europe
+mcgregor,South Africa,-33.948787,19.827473,Africa
+mittelrhein,Germany,50.1249063,7.6203784,Europe
+chablis,France,47.8152073,3.8001657,Europe
+touraine,France,47.0911924,0.2368126,Europe
+petit chablis,France,47.81193,3.802408,Europe
+soave,Italy,45.4202303,11.247722,Europe
+friuli isonzo,Italy,41.4627807,12.904768,Europe
+chassagne-montrachet,France,46.93636,4.72736,Europe
+traisental,Austria,48.1123645,15.6103091,Europe
+meursault 1er cru 'blagny',France,49.62167,5.19194,Europe
+gascogne,France,43.6666667,0.3333333,Europe
+batard-montrachet grand cru,France,46.9438574,4.7400306,Europe
+alsace grand cru,France,48.790357,2.584516,Europe
+pouilly-fume,France,49.272939,2.032351,Europe
+abona,Spain,28.0833698,-16.5633619,Europe
+picpoul de pinet,France,43.4069731,3.5095107,Europe
+alcamo,Italy,37.9766497,12.9626735,Europe
+vin de corse,France,41.5903081,9.2780396,Europe
+montrachet grand cru,France,46.9438574,4.7400306,Europe
+fiano de avellino,Italy,40.91441,14.78874,Europe
+gavi,Italy,44.687649,8.809353,Europe
+wiener gemischter satz,Austria,48.64444,16.185,Europe
+chassagne-montrachet premier cru,France,46.941904,4.7316926,Europe
+alsace grand cru 'engelberg',France,46.0,2.0,Europe
+alsace grand cru 'schlossberg',France,48.68722,7.30226,Europe
+rully 1er cru 'rabource',France,46.877596,4.735807,Europe
+vire-clesse,France,46.4493784,4.8436685,Europe
+brauneberg,Germany,49.9085313,6.9856528,Europe
+chassagne-montrachet 1er cru 'les chaumes',France,46.938732,4.729087,Europe
+meursault 1er cru 'charmes',France,47.168046,3.492699,Europe
+greco di tufo,Italy,41.01262,14.81784,Europe
+muscadet-cotes de grandlieu,France,43.67988,3.9188,Europe
+bianco di custoza,Italy,45.37727,10.79664,Europe
+chassagne-montrachet 1er cru 'morgeot',France,46.928044,4.724254,Europe
+cotes de grevenmacher,Luxembourg,49.67459,6.41269,Europe
+corton-charlemagne grand cru,France,47.0790554,4.870533,Europe
+vrancea,Romania,45.7887088,26.883803,Europe
+ockfen,Germany,49.6241185,6.5842029,Europe
+markopoulo,Greece,37.8828306,23.9323453,Europe
+est! est!! est!!! di montefiascone,Italy,42.5364691,12.0276094,Europe
+saint-veran,France,44.6993395,6.8687131,Europe
+macon-vinzelles,France,46.2695108,4.796244,Europe
+macon-villages,France,49.2663498,-0.4028409,Europe
+montagny 1er cru 'saint-morille',France,46.654142,5.260831,Europe
+macedonia,Greece,40.6186482,22.9179536,Europe
+vermentino di sardegna,Italy,40.8044992,9.3202819,Europe
+wehlen,Germany,50.957091,14.0307534,Europe
+auxey-duresses,France,46.9862244,4.7467921,Europe
+mantinia,Greece,36.9535613,22.1580433,Europe
+alsace grand cru 'sommerberg',France,46.0,2.0,Europe
+puligny-montrachet,France,46.9487302,4.7531515,Europe
+alsace grand cru 'kitterle',France,46.0,2.0,Europe
+orvieto,Italy,42.7186152,12.1087907,Europe
+chassagne-montrachet 1er cru 'cailleret',France,46.938564,4.731675,Europe
+spoleto,Italy,42.7342971,12.7382035,Europe
+chablis grand cru 'preuses',France,46.0,2.0,Europe
+morava,Czech Republic,50.2051284,16.8493899,Europe
+chablis 1er cru 'vau ligneau',France,47.826393,3.820664,Europe
+galicia,Spain,42.61946,-7.863112,Europe
+achaia,Greece,38.0692748,21.8727304,Europe
+moncao e melgaco,Portugal,42.11337,-8.26016,Europe
+valle del tirso,Italy,40.3902859,9.0140883,Europe
+chablis premier cru,France,47.09362,2.80038,Europe
+saint-romain,France,46.9982395,4.7083847,Europe
+chablis grand cru,France,45.661115,0.14326,Europe
+zeltingen,Germany,49.9526809,7.0187262,Europe
+santenay 1er cru 'les gravieres',France,44.42184,4.09193,Europe
+savoie,France,45.4948952,6.3846604,Europe
+nuragus di cagliari,Italy,39.77771,9.03724,Europe
+yarra valley,Australia,-37.7549851,145.522537,Oceania
+vouvray,France,47.4136687,0.7998446,Europe
+bianchello del metauro,Italy,43.7410026,12.9382976,Europe
+rudesheim,Germany,49.8457903,7.8153313,Europe
+falerio,Italy,40.6620959,14.6982564,Europe
+anjou,France,45.3462,4.88149,Europe
+entre-deux-mers,France,44.845146,-0.5326435,Europe
+savennieres,France,47.3830917,-0.6570828,Europe
+weinland,Austria,47.8788826,16.6504616,Europe
+algarve,Portugal,37.2303635,-8.6273516,Europe
+montagny premier cru,France,46.654142,5.260831,Europe
+val de loire,France,47.4492772,-0.349549,Europe
+sciacca,Italy,37.5064786,13.0823323,Europe
+montagu,South Africa,-33.7869944,20.1178282,Africa
+sannio,Italy,41.0619659,14.8538405,Europe
+alsace grand cru 'kastelberg',France,46.0,2.0,Europe
+wurzburg,Germany,49.7933723,9.9309779,Europe
+kanzem,Germany,49.6661301,6.5769538,Europe
+chablis 1er cru 'montmains',France,47.810698,3.798299,Europe
+blagny 1er cru 'la piece sous le bois',France,47.088562,6.315789,Europe
+rhone valley,France,45.164841,5.007654,Europe
+cassis,France,43.2140359,5.5396318,Europe
+coteaux du pont du gard,France,43.175216,0.897344,Europe
+valli di porto pino,Italy,38.9688,8.59526,Europe
+macon-milly-lamartine,France,46.3508165,4.700772,Europe
+yvorne,Switzerland,46.3317116,6.9586852,Europe
+tumbarumba,Australia,-35.7764898,148.010062,Oceania
+ribeiro,Spain,42.3199064,-8.1522669,Europe
+d minis,Romania,46.135019,21.6045211,Europe
+saint-aubin,France,50.4573687,1.6651851,Europe
+savennieres-roche-aux-moines,France,47.389346,-0.641404,Europe
+quincy,France,47.133365,2.1574605,Europe
+chablis 1er cru 'vau de vey',France,47.826393,3.820664,Europe
+falerio pecorino,Italy,42.83333,12.83333,Europe
+chablis 1er cru 'cote de lechet',France,47.815401,3.773605,Europe
+north island,New Zealand,-38.0035304,175.957821,Oceania
+macon-bussieres,France,46.40184,4.523195,Europe
+colline teatine,Italy,42.83333,12.83333,Europe
+macon-uchizy,France,46.498309,4.889898,Europe
+macon-la roche-vineuse,France,46.3432975,4.7225733,Europe
+saint-peray,France,44.9454417,4.8430943,Europe
+leiwen,Germany,49.8219222,6.8813375,Europe
+colline pescaresi,Italy,42.83333,12.83333,Europe
+alella,Spain,41.4952867,2.2942758,Europe
+wawern,Germany,50.1154792,6.4884372,Europe
+falanghina del sannio,Italy,42.83333,12.83333,Europe
+chablis 1er cru 'montee de tonnerre',France,47.816295,3.808025,Europe
+macon-lugny,France,46.4738658,4.807747,Europe
+ancient lakes of columbia valley,United States,38.441907,-90.192247,North America
+bernkastel,Germany,49.9155518,7.0757788,Europe
+clairette de languedoc,France,43.475944,3.215046,Europe
+niagara-on-the-lake,Canada,43.2556116,-79.0723264,North America
+monterrei,Spain,41.9467657,-7.4491474,Europe
+rosazzo,Italy,45.9970608,13.4415949,Europe
+bizkaiko txakolina,Spain,40.0,-4.0,Europe
+tokaj,Hungary,48.1235534,21.4113895,Europe
+verdicchio dei castelli di jesi riserva,Italy,42.83333,12.83333,Europe
+falanghina del beneventano,Italy,42.83333,12.83333,Europe
+orvieto classico,Italy,42.83333,12.83333,Europe
+blenheim,New Zealand,-41.5118691,173.9545856,Oceania
+frascati,Italy,41.8082452,12.6803684,Europe
+cape south coast,South Africa,-29.0,24.0,Africa
+savennieres-coulee-de-serrant,France,47.386976,-0.659663,Europe
+valdadige,Italy,40.7328744,16.5736393,Europe
+jurancon,France,43.2871825,-0.3896425,Europe
+santa barbara county,United States,34.7136533,-119.985823,North America
