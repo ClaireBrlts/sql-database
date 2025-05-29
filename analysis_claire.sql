@@ -1,18 +1,31 @@
 use wine;
 
-select * from wine_weather;
+select count(*) from climate;
 
+select * from region_df ;
+
+#Display a list of column names
 SELECT COLUMN_NAME
 FROM INFORMATION_SCHEMA.COLUMNS
 WHERE TABLE_SCHEMA = 'wine'  -- replace with your DB name
-  AND TABLE_NAME = 'wine_weather';       -- replace with your table name
+  AND TABLE_NAME = 'climate';       -- replace with your table name
+
+#what are the countries that have the most references?
+select r.country, count(w.name) as num_wine_ref
+from wine_df2 w
+left join region_df r
+on w.region = r.region
+group by r.country
+order by num_wine_ref desc;
 
 #what is the region with the highest average rating?
-select max(country) as country, region,
+select max(r.country) as country, w.region,
 round(avg(rating),2) as avg_rating,
 round(avg(price),2) as avg_price,
 count(*)
-from wine_weather
+from wine_df w
+left join region_df r
+on w.region = r.region
 group by region
 order by avg_rating desc;
 
